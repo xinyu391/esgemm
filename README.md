@@ -27,4 +27,4 @@ S6(Exynos7420 2.1GHzx4,1.5GHzx4, Mali T760)：
 
 > CL sgemm	1054.55ms
 
-* 上面[CL sgemm](http://gitlab.intsig.net/Jesse/cl-sgemm)是移植的openCL版本的sgemm函数,测试性能和OpenGLES版本基本一致。
+* 上面CL sgemm是移植的[openCL版本](https://github.com/clMathLibraries/clBLAS)的sgemm函数,测试性能和OpenGLES版本基本一致。
